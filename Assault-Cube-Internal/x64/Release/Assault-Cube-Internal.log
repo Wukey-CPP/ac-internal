@@ -1,0 +1,186 @@
+﻿  DllMain.cpp
+  aimbot.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/aimbot.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(8,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(8,78): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(8,52): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(9,8): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(15,30): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(21,200): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(21,179): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(55,78): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(55,47): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(56,78): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(56,47): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+  noGunMovment.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noGunMovment.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  noPushBack.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noPushBack.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  noRecoil.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noRecoil.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  noSpread.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noSpread.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  features.cpp
+  infArmor.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/misc/infArmor.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  infHealth.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/misc/infHealth.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  infAmmo.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/misc/infAmmo.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  esp.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/render/esp.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\esp.cpp(7,8): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\esp.cpp(12,29): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\esp.cpp(18,182): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\esp.cpp(18,161): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\esp.cpp(20,182): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\esp.cpp(20,161): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+  nametags.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/render/nametags.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\nametags.cpp(7,8): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\nametags.cpp(11,29): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\nametags.cpp(17,182): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\nametags.cpp(17,161): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\nametags.cpp(19,182): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\nametags.cpp(19,161): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+  snaplines.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/render/snaplines.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\snaplines.cpp(7,8): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\snaplines.cpp(12,29): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\snaplines.cpp(18,182): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\snaplines.cpp(18,161): warning C4244: 'argument': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\snaplines.cpp(25,65): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\features\render\snaplines.cpp(25,46): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+  hooks.cpp
+  memory.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\hack\memory\memory.cpp(13,15): warning C4312: 'type cast': conversion from 'DWORD' to 'ViewMatrix *' of greater size
+  menu.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/menu/menu.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl2.cpp
+  Compiling...
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Install.cpp
+  glDraw.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(24,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(24,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(24,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(35,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(35,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(35,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(45,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(45,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(45,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(66,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(66,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(66,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(78,20): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(84,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(84,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.cpp(84,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+  world.cpp
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'sdk/utils/world.cpp')
+      C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.cpp(48,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\Assault-Cube-Internal\sdk\utils\world.cpp(49,105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glPopMatrix
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glViewport
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glEnableClientState
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glPopAttrib
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glPolygonMode
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glBindTexture
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glGenTextures
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glVertexPointer
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glEnable
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glScissor
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glDisableClientState
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glMatrixMode
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glBlendFunc
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glLoadIdentity
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glTexParameteri
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glDeleteTextures
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glTexCoordPointer
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glGetTexEnviv
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glTexImage2D
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glColorPointer
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glTexEnvi
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glDrawElements
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glDisable
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glPushMatrix
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glShadeModel
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glPixelStorei
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glOrtho
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glPushAttrib
+imgui_impl_opengl2.obj : error LNK2001: unresolved external symbol __imp_glGetIntegerv
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glEnd
+glDraw.obj : error LNK2001: unresolved external symbol __imp_wglGetCurrentDC
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glGenLists
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glCallLists
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glLineWidth
+glDraw.obj : error LNK2001: unresolved external symbol __imp_wglUseFontBitmapsA
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glBegin
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glColor3ub
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glVertex2f
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glRasterPos2f
+glDraw.obj : error LNK2001: unresolved external symbol __imp_glListBase
+C:\Users\timot\Downloads\Assault-Cube-Internal-master\Assault-Cube-Internal-master\x64\Release\Assault-Cube-Internal.dll : fatal error LNK1120: 40 unresolved externals

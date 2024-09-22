@@ -1,0 +1,114 @@
+﻿  aimbot.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/aimbot.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(16,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(16,84): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(16,58): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(21,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(63,88): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(63,56): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(64,88): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\aim\aimbot.cpp(64,56): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+  noGunMovment.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noGunMovment.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  noPushBack.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noPushBack.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  noRecoil.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noRecoil.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  noSpread.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/aim/noSpread.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  features.cpp
+  infArmor.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/misc/infArmor.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  infHealth.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/misc/infHealth.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  infAmmo.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/misc/infAmmo.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  esp.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/render/esp.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\render\esp.cpp(12,26): warning C4018: '<': signed/unsigned mismatch
+  nametags.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/render/nametags.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\render\nametags.cpp(11,26): warning C4018: '<': signed/unsigned mismatch
+  snaplines.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/features/render/snaplines.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\render\snaplines.cpp(12,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\render\snaplines.cpp(25,65): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\hack\features\render\snaplines.cpp(25,46): warning C4244: 'argument': conversion from 'uintptr_t' to 'float', possible loss of data
+  hooks.cpp
+  menu.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'hack/menu/menu.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+  Install.cpp
+  glDraw.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(24,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(24,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(24,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(35,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(35,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(35,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(45,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(45,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(45,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(66,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(66,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(66,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(84,102): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(84,71): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.cpp(84,40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+  world.cpp
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.hpp(2,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'sdk/utils/world.cpp')
+      C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\draw\glDraw.hpp(5,9):
+      see previous definition of 'PI'
+  
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.cpp(48,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\ac-internal\Assault-Cube-Internal\sdk\utils\world.cpp(49,105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Assault-Cube-Internal.vcxproj -> C:\Users\timot\OneDrive\Desktop\ac-internal\Debug\Assault-Cube-Internal.dll
