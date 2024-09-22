@@ -1,42 +1,41 @@
-Assault Cube Internal Cheat
+AssaultCube Internal Cheat
 
-Assault Cube Internal is a lightweight cheat for the popular first-person shooter game, AssaultCube. This project enhances gameplay by providing features such as aimbot, ESP, and various customization options.
+Overview
+---------
+AssaultCube Internal is a lightweight and efficient cheat designed for the popular first-person shooter, AssaultCube. 
+This project enhances your gameplay experience with powerful features such as an aimbot, ESP (Extra Sensory Perception), 
+and a range of customizable options.
 
 Features
-Aimbot: Automatically aims at enemies for improved accuracy.
-ESP (Extra Sensory Perception): Displays additional information about players, including:
-Health bars
-Names
-Snaplines to targets
-Customizable Settings: Adjust settings according to your preferences, including:
-Field of View (FOV)
-Color customization for ESP
-Options to disable recoil, spread, and pushback
-Menu
-The cheat includes a user-friendly menu built with ImGui, allowing you to easily configure various settings:
+---------
+- **Aimbot**: 
+  - Automatically aims at enemies to improve accuracy.
+  - Supports various aimbot modes for different targeting strategies.
 
-Aim Assist Tab:
-Toggle aimbot on/off.
-Adjust FOV.
-Choose aimbot type (FOV or Distance).
-Enable/disable features like no pushback, no recoil, no spread, and no gun movement.
+- **ESP (Extra Sensory Perception)**: 
+  - Provides critical information about players, including:
+    - Health Bars: Displays the current health of players.
+    - Names: Shows player names for better identification.
+    - Snaplines: Visual lines connecting your position to enemy targets.
 
-Visuals Tab:
-Toggle ESP and select the type (Outline or FilledBox).
-Enable nametags and snaplines.
-Options to hide dead players and show only enemies.
+- **Customizable Settings**:
+  - Tailor your cheat experience to fit your playstyle:
+    - Field of View (FOV): Adjust the aimbot's sensitivity.
+    - Color Customization: Choose colors for health bars, names, and snaplines.
+    - Gameplay Modifiers: Options to disable recoil, spread, and pushback.
 
-Server-side Tab:
-Enable infinite health, armor, and ammo.
+User Menu
+---------
+The cheat features a user-friendly menu built with ImGui, allowing easy configuration of settings.
 
-Info Tab:
-View information about the cheat and its contributors.
+- **Aim Assist Tab**:
+  - Toggle Aimbot: Enable or disable the aimbot.
+  - Adjust FOV: Fine-tune the field of view.
+  - Choose Aimbot Type: Select between FOV-based or distance-based targeting.
+  - Additional Features: Enable/disable no pushback, no recoil, no spread, and no gun movement.
 
-
-Usage
-Launch AssaultCube.
-Open Process Hacker.
-Locate the ac_client.exe process in Process Hacker.
-Use the Process Hacker to inject your cheat DLL into the game process.
-Configure the desired settings using the in-game menu.
-Enjoy enhanced gameplay!
+- **Visuals Tab**:
+  - Toggle ESP: Easily enable or disable ESP features.
+  - Select ESP Type: Choose between outline or filled box visuals.
+  - Nametags and Snaplines: Display player names and snaplines.
+  - Visibility Options: Hide dead players or show only active enemies.
